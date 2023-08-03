@@ -1,0 +1,29 @@
+{
+    "Data" : [
+        {
+          "name": "amazon",
+          "url":"/assets/images/client/amazon.svg"
+        },
+        {
+          "name": "Google",
+          "url":"/assets/images/client/google.svg"
+        },
+        {
+          "name": "Lenovo",
+          "url":"/assets/images/client/lenovo.svg"
+        },
+        {
+          "name": "paypal",
+          "url":"/assets/images/client/paypal.svg"
+        },
+        {
+          "name": "shopify",
+          "url":"/assets/images/client/shopify.svg"
+        },
+        {
+          "name": "spotify",
+          "url":"/assets/images/client/spotify.svg"
+        }
+       
+      ]
+}

@@ -1,0 +1,46 @@
+{
+    "Data" : [
+        {
+          "name": "Hign Performance",
+          "icon": "uil uil-chart-line",
+          "details":" It is a long established fact that a reader."
+        },
+        {
+          "name": "Best Securities",
+          "icon": " uil uil-crosshairs",
+          "details":"  It is a long established fact that a reader."
+        },
+        {
+          "name": "Trusted Service",
+          "icon": "uil uil-airplay",
+          "details":"  It is a long established fact that a reader."
+        },
+        {
+          "name": "Info Technology",
+          "icon": " uil uil-rocket",
+          "details":" It is a long established fact that a reader."
+        },
+        {
+          "name": " 24/7 Support",
+          "icon": " uil uil-clock",
+          "details":" It is a long established fact that a reader."
+        },
+        {
+          "name": " IT Management",
+          "icon": "uil uil-users-alt",
+          "details":" It is a long established fact that a reader."
+        },
+        {
+          "name": "Certified Company",
+          "icon": "uil uil-file-alt",
+          "details":" It is a long established fact that a reader."
+        },
+        {
+          "name": "Data Analytics",
+          "icon": "uil uil-search",
+          "details":" It is a long established fact that a reader."
+        }
+       
+       
+      ]
+}

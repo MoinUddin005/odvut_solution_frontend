@@ -1,0 +1,37 @@
+{
+    "Data" : [
+        {
+          "image":"/assets/images/client/amazon.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Thomas Israel"
+        },
+        {
+          "image":"/assets/images/client/google.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Carl Oliver"
+        },
+        {
+          "image":"/assets/images/client/lenovo.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Barbara McIntosh"
+        },
+        {
+          "image":"/assets/images/client/paypal.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Jill Web"
+        },
+        {
+          "image":"/assets/images/client/shopify.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Dean Tolle"
+        },
+        {
+          "image":"/assets/images/client/spotify.svg",
+          "details": "If the distribution of letters and 'words' is random, the reader will not be distracted from making a neutral judgement on the visual impact and readability of the typefaces (typography), or the distribution of text on the page consists of a more or less random series of words or syllables.",
+          "name": "- Christa Smith"
+        }
+       
+        
+        
+      ]
+}

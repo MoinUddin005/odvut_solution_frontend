@@ -1,0 +1,43 @@
+{
+    "Data" : [
+        {
+          "name": "Fully Responsive",
+          "imageName":"monitor"
+        },
+        {
+          "name": "Browser Compatibility",
+          "imageName":"heart"
+        },
+        {
+          "name": "Retina Ready",
+          "imageName":"eye"
+        },
+        {
+          "name": "Based On Tailwindcss 3",
+          "imageName":"layout"
+        },
+        {
+          "name": "Feather Icons",
+          "imageName":"feather"
+        },
+        {
+          "name": "Built With SASS",
+          "imageName":"code"
+        },
+        {
+          "name": "W3c Valid Code",
+          "imageName":"user-check"
+        },
+        {
+          "name": "Browsers Compatible",
+          "imageName":"globe"
+        },
+        {
+          "name": "Easy to customize",
+          "imageName":"settings"
+        }
+        
+       
+       
+      ]
+}

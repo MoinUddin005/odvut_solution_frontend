@@ -1,0 +1,397 @@
+[
+  {
+    "title": "Home",
+    "url": "/",
+    "hasChild": false
+  },
+  {
+    "title": "ABOUT US",
+    "url": "/about",
+    "hasChild": false
+  },
+  {
+    "title": "SERVICES",
+    "url": "/services",
+    "hasChild": false
+  },
+  {
+    "title": "CONTACT",
+    "url": "/contact",
+    "hasChild": false
+  },
+  {
+    "title": "Landing",
+    "url": "/landing",
+    "hasChild": true,
+    "megaMenu": true,
+    "megaSubMenu": [
+      {
+        "megaList" : [
+          {
+            "title": "Saas",
+            "url":"/"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Saas",
+            "url":"/"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Saas",
+            "url":"/"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Saas",
+            "url":"/"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Saas",
+            "url":"/"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      }
+      
+    ]
+  },
+  {
+    "title": "Pages",
+    "url": "/pages",
+    "hasChild": true,
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "title": "Company",
+        "url":"/",
+        "hasChild": true,
+        "childMenu": [
+          {
+            "title": "About Us",
+            "url":"/"
+          },
+          {
+            "title": "Services",
+            "url":"/"
+          },
+          {
+            "title": "Team",
+            "url":"/"
+          },
+          {
+            "title": "Pricing",
+            "url":"/"
+          },
+          {
+            "title": "Testimonial",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "title": "Accounts",
+        "url":"/",
+        "hasChild": true,
+        "childMenu": [
+          {
+            "title": "User Profile",
+            "url":"/"
+          },
+          {
+            "title": "Billing",
+            "url":"/"
+          },
+          {
+            "title": "Payment",
+            "url":"/"
+          },
+          {
+            "title": "Invoice",
+            "url":"/"
+          },
+          {
+            "title": "Social",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "title": "Real Estate",
+        "url":"/"
+      },
+      {
+        "title": "Courses",
+        "url":"/"
+      },
+      {
+        "title": "NFT Market",
+        "url":"/"
+      },
+      {
+        "title": "Classic App",
+        "url":"/"
+      },
+      {
+        "title": "Smartwatch",
+        "url":"/"
+      }
+    ]
+  },
+  {
+    "title": "Portfolio",
+    "url": "/portfolio",
+    "hasChild": true,
+    "megaMenu": true,
+    "megaSubMenu": [
+      {
+        "megaList" : [
+          {
+            "title": "Modern Portfolio"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Classic Portfolio"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Creative Portfolio"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Masonry Portfolio"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      },
+      {
+        "megaList" : [
+          {
+            "title": "Portfolio Detail"
+          },
+          {
+            "title": "Classic Saas",
+            "url":"/"
+          },
+          {
+            "title": "Modern Saas",
+            "url":"/"
+          },
+          {
+            "title": "Application",
+            "url":"/"
+          },
+          {
+            "title": "Classic App",
+            "url":"/"
+          },
+          {
+            "title": "Smartwatch",
+            "url":"/"
+          }
+        ]
+      }
+      
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+    "Data" : [
+        {
+          "image":"/assets/images/client/01.jpg",
+          "name": "Ronny Jofra",
+          "position": "C.E.O.",
+          "details": "If the distribution of letters and 'words' is random"
+        },
+        {
+          "image":"/assets/images/client/02.jpg",
+          "name": "Aliana Rosy",
+          "position": "HR",
+          "details": "If the distribution of letters and 'words' is random"
+        },
+        {
+          "image":"/assets/images/client/03.jpg",
+          "name": "Sofia Razaq",
+          "position": "C.O.O.",
+          "details": "If the distribution of letters and 'words' is random"
+        },
+        {
+          "image":"/assets/images/client/04.jpg",
+          "name": "Micheal Carlo",
+          "position": "Director",
+          "details": "If the distribution of letters and 'words' is random"
+        }
+        
+        
+      ]
+}
