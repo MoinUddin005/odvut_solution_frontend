@@ -1,6 +1,6 @@
 #odvut_solution_frontend
 
-This is the live website link(https://assignment12-b8b1c.web.app/)
+This is the live website link(https://odvut-solution-frontend-hfzt.vercel.app/)
 
 ## Usage Language/libary
 - javascript
