@@ -9,9 +9,7 @@ const Footer = () => {
             <div className="py-[60px] px-0">
               <div className="grid md:grid-cols-12 grid-cols-1 gap-[30px]">
                 <div className="lg:col-span-4 md:col-span-12">
-                  <a href="#" className="text-[22px] focus:outline-none">
-                    <img src="assets/images/logo-light.png" alt="" />
-                  </a>
+                
                   <p className="mt-6 text-gray-300">
                     Start working with Tailwind CSS that can provide everything
                     you need to generate awareness, drive traffic, connect.
